@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adeol\\Desktop\\Test\\StInternships\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80B277F1-AFD5-48CA-9A22-C262C20F8668}|StInternships.csproj|c:\\users\\adeol\\desktop\\test\\stinternships\\controllers\\internshipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B277F1-AFD5-48CA-9A22-C262C20F8668}|StInternships.csproj|solutionrelative:controllers\\internshipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B277F1-AFD5-48CA-9A22-C262C20F8668}|StInternships.csproj|c:\\users\\adeol\\desktop\\test\\stinternships\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80B277F1-AFD5-48CA-9A22-C262C20F8668}|StInternships.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B277F1-AFD5-48CA-9A22-C262C20F8668}|StInternships.csproj|c:\\users\\adeol\\desktop\\test\\stinternships\\views\\internship\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80B277F1-AFD5-48CA-9A22-C262C20F8668}|StInternships.csproj|solutionrelative:views\\internship\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B277F1-AFD5-48CA-9A22-C262C20F8668}|StInternships.csproj|c:\\users\\adeol\\desktop\\test\\stinternships\\views\\internship\\loghours.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80B277F1-AFD5-48CA-9A22-C262C20F8668}|StInternships.csproj|solutionrelative:views\\internship\\loghours.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B277F1-AFD5-48CA-9A22-C262C20F8668}|StInternships.csproj|c:\\users\\adeol\\desktop\\test\\stinternships\\views\\internship\\feedback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80B277F1-AFD5-48CA-9A22-C262C20F8668}|StInternships.csproj|solutionrelative:views\\internship\\feedback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B277F1-AFD5-48CA-9A22-C262C20F8668}|StInternships.csproj|c:\\users\\adeol\\desktop\\test\\stinternships\\views\\internship\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80B277F1-AFD5-48CA-9A22-C262C20F8668}|StInternships.csproj|solutionrelative:views\\internship\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B277F1-AFD5-48CA-9A22-C262C20F8668}|StInternships.csproj|c:\\users\\adeol\\desktop\\test\\stinternships\\models\\internship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B277F1-AFD5-48CA-9A22-C262C20F8668}|StInternships.csproj|solutionrelative:models\\internship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\adeol\\Desktop\\Test\\StInternships\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\adeol\\Desktop\\Test\\StInternships\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T20:39:39.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Feedback.cshtml",
+              "DocumentMoniker": "C:\\Users\\adeol\\Desktop\\Test\\StInternships\\Views\\Internship\\Feedback.cshtml",
+              "RelativeDocumentMoniker": "Views\\Internship\\Feedback.cshtml",
+              "ToolTip": "C:\\Users\\adeol\\Desktop\\Test\\StInternships\\Views\\Internship\\Feedback.cshtml",
+              "RelativeToolTip": "Views\\Internship\\Feedback.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T20:26:49.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogHours.cshtml",
+              "DocumentMoniker": "C:\\Users\\adeol\\Desktop\\Test\\StInternships\\Views\\Internship\\LogHours.cshtml",
+              "RelativeDocumentMoniker": "Views\\Internship\\LogHours.cshtml",
+              "ToolTip": "C:\\Users\\adeol\\Desktop\\Test\\StInternships\\Views\\Internship\\LogHours.cshtml",
+              "RelativeToolTip": "Views\\Internship\\LogHours.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T20:23:45.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Internship.cs",
+              "DocumentMoniker": "C:\\Users\\adeol\\Desktop\\Test\\StInternships\\Models\\Internship.cs",
+              "RelativeDocumentMoniker": "Models\\Internship.cs",
+              "ToolTip": "C:\\Users\\adeol\\Desktop\\Test\\StInternships\\Models\\Internship.cs",
+              "RelativeToolTip": "Models\\Internship.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T20:12:40.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\adeol\\Desktop\\Test\\StInternships\\Views\\Internship\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Internship\\Create.cshtml",
+              "ToolTip": "C:\\Users\\adeol\\Desktop\\Test\\StInternships\\Views\\Internship\\Create.cshtml",
+              "RelativeToolTip": "Views\\Internship\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T19:19:10.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\adeol\\Desktop\\Test\\StInternships\\Views\\Internship\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Internship\\Index.cshtml",
+              "ToolTip": "C:\\Users\\adeol\\Desktop\\Test\\StInternships\\Views\\Internship\\Index.cshtml",
+              "RelativeToolTip": "Views\\Internship\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T19:00:34.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InternshipController.cs",
+              "DocumentMoniker": "C:\\Users\\adeol\\Desktop\\Test\\StInternships\\Controllers\\InternshipController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InternshipController.cs",
+              "ToolTip": "C:\\Users\\adeol\\Desktop\\Test\\StInternships\\Controllers\\InternshipController.cs",
+              "RelativeToolTip": "Controllers\\InternshipController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T18:59:24.19Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
